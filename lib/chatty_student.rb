@@ -1,4 +1,4 @@
-# •	Write a method in the ChattyStudent class, #hello, that uses the super keyword to inherit the behavior of the #hello method from the parent, Student, class.
+# Write a method in the ChattyStudent class, #hello, that uses the super keyword to inherit the behavior of the #hello method from the parent, Student, class.
 
 class ChattyStudent < Student
   
